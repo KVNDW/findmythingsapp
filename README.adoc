@@ -1,8 +1,5 @@
 == ws6C - findmi
 
-=== Bearbeitet von
-
-* Kevin Würsch
-* Karin Güdel
+Projekt wurde durchgeführt von Karin Güdel und Kevin Würsch.
 
 
